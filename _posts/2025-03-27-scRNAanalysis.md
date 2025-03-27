@@ -1,5 +1,5 @@
 ---
-title: "Single-cell RNA Seqeucne Data Analysis"
+title: "Single-cell RNA Sequance Data Analysis"
 excerpt: "Internship project at Neogene Therapeutics (Currently Astrazeneca) in my master's degree "
 date: 2025-03-27
 categories:
@@ -9,7 +9,9 @@ author_profile: false
 
 ## Overview
 
-This document outlines the tools and technologies I utilized during a master’s research project with Neogene Therapeutics. Specific details about the project's nature, data, and outcomes are confidential. The science underlying Neogene’s approach for T cell receptor therapy is introduced in the following page.
+This document outlines the tools and technologies I utilized during a master’s research project with Neogene Therapeutics (now a part of the Astrazeneca group). Specific details about the project's nature, data, and outcomes are confidential. The science underlying Neogene’s approach for T cell receptor therapy is introduced in the following page.
+
+https://www.astrazeneca.nl/in-Nederland/Amsterdam.html
 
 ## Research Goal
 - The research goal was to investigate if neoantigen-reactive T cell receptors (TCRs) can be predicted using gene signatures derived from RNA sequence data. To do this,
