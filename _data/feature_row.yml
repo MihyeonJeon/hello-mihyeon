@@ -1,0 +1,51 @@
+intro:
+  - image_path: /assets/images/profile.jpg
+    alt: "Profile"
+    title: "A bit about me"
+    excerpt: >
+      I'm a bioinformatician with a strong interest in data engineering and pipeline development.
+      I enjoy solving problems using tools like Python, Nextflow, and cloud platforms.
+    url: /about/
+    btn_label: "More About Me"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/bioinformatics.jpg
+    alt: "Projects"
+    title: "Projects I've built"
+    excerpt: >
+      From analyzing sequencing data to building reproducible pipelines, 
+      check out the bioinformatics and data engineering projects I've worked on.
+    url: /projects/
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
+
+skills:
+  - image_path: /assets/images/skills.jpg
+    alt: "Skills"
+    title: "What I use"
+    excerpt: >
+      Python, R, Nextflow, Snakemake, Docker, Git, AWS, GCP  
+      I'm continually learning and experimenting to build efficient data workflows.
+    url: /projects/
+    btn_label: "See in Action"
+    btn_class: "btn--primary"
+
+contact:
+  - image_path: /assets/images/github.jpg
+    alt: "GitHub"
+    title: "Find me on GitHub"
+    excerpt: >
+      My projects are open-source and available for review. Contributions and feedback are welcome!
+    url: https://github.com/yourusername
+    btn_label: "Visit GitHub"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/contact.jpg
+    alt: "Contact"
+    title: "Let's connect"
+    excerpt: >
+      I’m currently open to roles in bioinformatics, data engineering, and research support.
+      Feel free to reach out!
+    url: mailto:youremail@example.com
+    btn_label: "Email Me"
+    btn_class: "btn--primary"
