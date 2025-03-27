@@ -1,8 +1,9 @@
 ---
 title: "Single-cell RNA Seqeucne Data Analysis"
 excerpt: "Internship project at Neogene Therapeutics (Currently Astrazeneca) in my master's degree "
-collection: projects
-layout: single
+date: 2025-03-27
+categories:
+  - Project
 author_profile: false
 ---
 
