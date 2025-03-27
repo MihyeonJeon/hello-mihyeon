@@ -18,9 +18,6 @@ This document outlines the tools and technologies I utilized during a master’s
 [1] https://pubmed.ncbi.nlm.nih.gov/35113651/
 
 ## Technologies Used
-
----
-
 **Programming Languages**
 
 - **Python:** Used for single-cell RNA sequence (scRNA-seq) data process, analysis, and visualization.
@@ -45,8 +42,6 @@ This document outlines the tools and technologies I utilized during a master’s
 
 ## **Skills Developed**
 
----
-
 - Enhanced proficiency in single-cell RNA sequence data analysis. Specifically in
     - Data preprocessing
     - Cell clustering
@@ -57,8 +52,6 @@ This document outlines the tools and technologies I utilized during a master’s
 - Advanced communication skills such as effectively soliciting and incorporating feedback from peers and supervisors.
 
 ## **Code Samples and Resources**
-
----
 
 Due to the confidentiality of the project, direct code snippets cannot be shared. However, the techniques and libraries mentioned were pivotal in achieving the project's goals. Techniques included clustering algorithms, gene set enrichment analysis, dimension reduction, and differential gene expression analysis, each tailored to the specific needs of the project. Throughout the research projects, I utilized reputable online resources, including:
 
