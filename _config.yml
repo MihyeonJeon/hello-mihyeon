@@ -13,12 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: "My Awesome Blog"
+subtitle: "Version 0"
+name: "Mihyeon Jeon"
 email: mjeon0562@gmail.com
-description: Bioinformatician & Aspring Data Engineer.
+description: "Bioinformatician & Aspring Data Engineer"
 github_username: MihyeonJeon
 minimal_mistakes_skin: air
 search: true
+masthead_title: "Test for masthead title"
 
 # Build settings
 markdown: kramdown
@@ -89,6 +92,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
